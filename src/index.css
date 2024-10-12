@@ -1,0 +1,41 @@
+@import 'flowbite';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+  background-color: #00150f;
+}
+
+.product{
+   background-color: #10231F; 
+}
+
+.product-section{
+  background-color: #061A15;
+}
+
+.price-card{
+  background-color: #132622;
+}
+
+.mx-2.p-5.border.border-gray-300.rounded-lg.profile-slider {
+  width: 93% !important;
+  background-color: #1F3231;
+}
+
+.bg-gray-800.py-10.px-8.border.testimonial-card.rounded-lg.mx-2.text-white {
+  width: 93% !important;
+  background-color: #1F3231;
+
+}
+
+.faq-image img{
+  width: 55%;
+}
+.faq-image{
+  text-align: center;
+}
